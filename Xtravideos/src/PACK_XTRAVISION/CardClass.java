@@ -3,10 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-
+package PACK_XTRAVISION;
 
 import java.util.Scanner;
-
+import database.Card;
 
 /**
  *

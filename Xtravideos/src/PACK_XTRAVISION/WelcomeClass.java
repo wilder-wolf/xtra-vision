@@ -1,7 +1,12 @@
-
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package PACK_XTRAVISION;
 
 import java.util.Scanner;
-
+import PACK_MOVIES.FILMS;
 
 /**
  *
@@ -9,7 +14,7 @@ import java.util.Scanner;
  */
 public class WelcomeClass {
     Scanner sc = new Scanner(System.in);
-    FILMES myW;
+    FILMS myW;
     int firstquestion;
      int filmName;
      
@@ -66,5 +71,7 @@ public class WelcomeClass {
             showMovieSelection();
         }
     }
-
+      
     
+    
+}
